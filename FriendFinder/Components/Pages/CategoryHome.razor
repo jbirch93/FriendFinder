@@ -1,0 +1,21 @@
+﻿@page "/"
+
+<PageTitle>Categories</PageTitle>
+
+<div class="cat-grid">
+    @foreach (var c in categories)
+    {
+        <a href="@($"/category/{c}")" class="cat-tile">@c</a>
+    }
+</div>
+
+@code {
+    private readonly string[] categories = new[]
+    {
+        "Tech","Sports","Food","Travel","Music","Movies","Books","Fitness","Finance",
+        "Art","DIY","Gaming","Fashion","News","Science","Pets","Cars","Health"
+    };
+}
+
+
+

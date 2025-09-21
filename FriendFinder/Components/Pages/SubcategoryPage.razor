@@ -1,0 +1,21 @@
+﻿@page "/subcategory/{subcat}"
+
+<PageTitle>Items</PageTitle>
+
+<div class="cat-grid">
+    @foreach (var i in items)
+    {
+        <a href="@($"/item/{i}")" class="cat-tile">@i</a>
+    }
+</div>
+
+@code {
+    [Parameter] public string? subcat { get; set; }
+
+    private readonly string[] items = new[]
+    {
+        "Sandwiches", "Burgers", "Salads", "Pizza", "Candy", "Dessert", "Appetizers", "Steaks", "Fruit",
+        "Chinese", "Thai", "Indian", "Korean", "Mexican", "Breakfast", "", "", "Soups"
+    };
+
+}

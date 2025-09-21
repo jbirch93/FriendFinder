@@ -1,0 +1,21 @@
+﻿@page "/item/{item}"
+
+<PageTitle>@item</PageTitle>
+
+<div class="cat-grid">
+    @foreach (var f in friends)
+    {
+        <a href="@($"/profile/{f}")" class="cat-tile">@f</a>
+    }
+</div>
+
+@code {
+    [Parameter] 
+    public string? item { get; set; }
+    
+    private readonly string[] friends = new[] // get profiles of friends that like the item? or other
+    {
+        "Sandwiches","Burgers","Salads","Pizza","Candy","Dessert","Appetizers","Steaks","Fruit",
+        "Chinese","Thai","Indian","Korean","Mexican","Breakfast","","","Soups"
+    };
+}

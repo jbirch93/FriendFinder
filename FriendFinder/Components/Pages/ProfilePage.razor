@@ -1,0 +1,24 @@
+﻿@page "/profile/{UserName}"
+
+<PageTitle>Profile</PageTitle>
+
+<div class="profile-grid">
+    <!-- Top row (full width) -->
+    <div class="profile-header">
+        <h2>@UserName</h2>
+        <p>@Bio</p>
+    </div>
+
+    <!-- Below: 3-column tiles -->
+    <div class="profile-tile">Posts</div>
+    <div class="profile-tile">Friends</div>
+    <div class="profile-tile">Messages</div>
+    <div class="profile-tile">Photos</div>
+    <div class="profile-tile">Settings</div>
+    <div class="profile-tile">Activity</div>
+</div>
+
+@code {
+    private string UserName = "Jake Birchland";
+    private string Bio = "Developer • Coffee enthusiast • Building FriendFinder 🚀";
+}
