@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FriendFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a0ce5b71497570532af2d00014a263c83041265")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b50678494edb2b47a7c497497a35bc66caba7c5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FriendFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FriendFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,15 +10,15 @@
     </div>
 
     <!-- Below: 3-column tiles -->
-    <div class="profile-tile">Posts</div>
-    <div class="profile-tile">Friends</div>
-    <div class="profile-tile">Messages</div>
-    <div class="profile-tile">Photos</div>
-    <div class="profile-tile">Settings</div>
-    <div class="profile-tile">Activity</div>
+    <div class="cat-tile">Posts</div>
+    <div class="cat-tile">Friends</div>
+    <div class="cat-tile">Messages</div>
+    <div class="cat-tile">Photos</div>
+    <div class="cat-tile">Settings</div>
+    <div class="cat-tile">Activity</div>
 </div>
 
 @code {
-    private string UserName = "Jake Birchland";
+    [Parameter] public string? UserName { get; set; }
     private string Bio = "Developer • Coffee enthusiast • Building FriendFinder 🚀";
 }

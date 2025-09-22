@@ -58,14 +58,10 @@ build_metadata.AdditionalFiles.CssScope = b-j4vouxa64h
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DYXRlZ29yeUhvbWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7i5d79djsc
 
-[/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/Components/Pages/CategoryPage.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DYXRlZ29yeVBhZ2UucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-j9g0ldyra6
-
 [/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/Components/Pages/ItemPage.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9JdGVtUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-460iiwz7ii
 
-[/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/Components/Pages/SubcategoryPage.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9TdWJjYXRlZ29yeVBhZ2UucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-nbuh407f18
+[/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/Components/Pages/SubategoryPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9TdWJhdGVnb3J5UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-c0bdsfk5cm

@@ -221,29 +221,6 @@ main[b-2cdj68y2iy] {
 a[b-7i5d79djsc] {
     text-decoration: none;
 }
-/* _content/FriendFinder/Components/Pages/CategoryPage.razor.rz.scp.css */
-/* Create a 3xN grid (change 3 to 9 for 9 columns) */
-.cat-grid[b-j9g0ldyra6] {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 across */
-    border: 1px solid #333;                /* outer border */
-    border-collapse: collapse;
-}
-
-/* Each tile */
-.cat-tile[b-j9g0ldyra6] {
-    aspect-ratio: 1 / 1;                   /* force squares */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid #333;                /* inner grid lines */
-    font-weight: 600;
-    background: #f9f9f9;
-}
-
-a[b-j9g0ldyra6] {
-    text-decoration: none;
-}
 /* _content/FriendFinder/Components/Pages/ItemPage.razor.rz.scp.css */
 /* Create a 3xN grid (change 3 to 9 for 9 columns) */
 .cat-grid[b-460iiwz7ii] {
@@ -267,9 +244,9 @@ a[b-j9g0ldyra6] {
 a[b-460iiwz7ii] {
     text-decoration: none;
 }
-/* _content/FriendFinder/Components/Pages/SubcategoryPage.razor.rz.scp.css */
+/* _content/FriendFinder/Components/Pages/SubategoryPage.razor.rz.scp.css */
 /* Create a 3xN grid (change 3 to 9 for 9 columns) */
-.cat-grid[b-nbuh407f18] {
+.cat-grid[b-c0bdsfk5cm] {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 across */
     border: 1px solid #333;                /* outer border */
@@ -277,7 +254,7 @@ a[b-460iiwz7ii] {
 }
 
 /* Each tile */
-.cat-tile[b-nbuh407f18] {
+.cat-tile[b-c0bdsfk5cm] {
     aspect-ratio: 1 / 1;                   /* force squares */
     display: flex;
     align-items: center;
@@ -287,6 +264,6 @@ a[b-460iiwz7ii] {
     background: #f9f9f9;
 }
 
-a[b-nbuh407f18] {
+a[b-c0bdsfk5cm] {
     text-decoration: none;
 }
