@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FriendFinder.bundle.scp.css",
-      "PackagePath": "staticwebassets\\FriendFinder.bundle.scp.css"
+      "Id": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/projectbundle/FriendFinder.bundle.scp.css",
+      "PackagePath": "staticwebassets/FriendFinder.bundle.scp.css"
     },
     {
-      "Id": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\app.css",
-      "PackagePath": "staticwebassets\\app.css"
+      "Id": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+      "Id": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+      "Id": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
+      "Id": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FriendFinder.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FriendFinder.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FriendFinder.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.FriendFinder.props",
       "PackagePath": "build\\FriendFinder.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FriendFinder.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FriendFinder.props",
       "PackagePath": "buildMultiTargeting\\FriendFinder.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FriendFinder.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FriendFinder.props",
       "PackagePath": "buildTransitive\\FriendFinder.props"
     }
   ],

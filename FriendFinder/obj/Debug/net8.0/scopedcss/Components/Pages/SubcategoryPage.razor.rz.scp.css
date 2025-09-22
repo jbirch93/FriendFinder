@@ -1,5 +1,5 @@
 /* Create a 3xN grid (change 3 to 9 for 9 columns) */
-.cat-grid[b-vmnbuvbbo8] {
+.cat-grid[b-nbuh407f18] {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 across */
     border: 1px solid #333;                /* outer border */
@@ -7,7 +7,7 @@
 }
 
 /* Each tile */
-.cat-tile[b-vmnbuvbbo8] {
+.cat-tile[b-nbuh407f18] {
     aspect-ratio: 1 / 1;                   /* force squares */
     display: flex;
     align-items: center;
@@ -17,6 +17,6 @@
     background: #f9f9f9;
 }
 
-a[b-vmnbuvbbo8] {
+a[b-nbuh407f18] {
     text-decoration: none;
 }

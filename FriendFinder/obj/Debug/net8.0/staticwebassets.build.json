@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HXfwSjHaMy1aoNsR12TsoveF4o6arUbXYAUNXJmZtC0=",
+  "Hash": "PCyCh+fTYSQtQmYvX1ZtKDAIOBT11bYV4Bpu0yjmrJ8=",
   "Source": "FriendFinder",
   "BasePath": "_content/FriendFinder",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "FriendFinder\\wwwroot",
+      "Name": "FriendFinder/wwwroot",
       "Source": "FriendFinder",
-      "ContentRoot": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\",
+      "ContentRoot": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/",
       "BasePath": "_content/FriendFinder",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FriendFinder.styles.css",
+      "Identity": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/bundle/FriendFinder.styles.css",
       "SourceId": "FriendFinder",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/FriendFinder",
       "RelativePath": "FriendFinder.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FriendFinder.styles.css"
+      "OriginalItemSpec": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/bundle/FriendFinder.styles.css"
     },
     {
-      "Identity": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FriendFinder.bundle.scp.css",
+      "Identity": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/projectbundle/FriendFinder.bundle.scp.css",
       "SourceId": "FriendFinder",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/FriendFinder",
       "RelativePath": "FriendFinder.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FriendFinder.bundle.scp.css"
+      "OriginalItemSpec": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/projectbundle/FriendFinder.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\app.css",
+      "Identity": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/app.css",
       "SourceId": "FriendFinder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\",
+      "ContentRoot": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/",
       "BasePath": "_content/FriendFinder",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\app.css"
+      "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "FriendFinder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\",
+      "ContentRoot": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/",
       "BasePath": "_content/FriendFinder",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "FriendFinder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\",
+      "ContentRoot": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/",
       "BasePath": "_content/FriendFinder",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\favicon.png",
+      "Identity": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/favicon.png",
       "SourceId": "FriendFinder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\wwwroot\\",
+      "ContentRoot": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/wwwroot/",
       "BasePath": "_content/FriendFinder",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.png"
+      "OriginalItemSpec": "wwwroot/favicon.png"
     }
   ]
 }

@@ -1,18 +1,18 @@
-.page[b-pz1kovaf8r] {
+.page[b-2cdj68y2iy] {
     position: relative;
     display: flex;
     flex-direction: column;
 }
 
-main[b-pz1kovaf8r] {
+main[b-2cdj68y2iy] {
     flex: 1;
 }
 
-.sidebar[b-pz1kovaf8r] {
+.sidebar[b-2cdj68y2iy] {
     background-color: #4A5A49 !important;
 }
 
-.top-row[b-pz1kovaf8r] {
+.top-row[b-2cdj68y2iy] {
     background-color: #f7f7f7;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
@@ -21,50 +21,50 @@ main[b-pz1kovaf8r] {
     align-items: center;
 }
 
-    .top-row[b-pz1kovaf8r]  a, .top-row[b-pz1kovaf8r]  .btn-link {
+    .top-row[b-2cdj68y2iy]  a, .top-row[b-2cdj68y2iy]  .btn-link {
         white-space: nowrap;
         margin-left: 1.5rem;
         text-decoration: none;
     }
 
-    .top-row[b-pz1kovaf8r]  a:hover, .top-row[b-pz1kovaf8r]  .btn-link:hover {
+    .top-row[b-2cdj68y2iy]  a:hover, .top-row[b-2cdj68y2iy]  .btn-link:hover {
         text-decoration: underline;
     }
 
-    .top-row[b-pz1kovaf8r]  a:first-child {
+    .top-row[b-2cdj68y2iy]  a:first-child {
         overflow: hidden;
         text-overflow: ellipsis;
     }
 
 @media (max-width: 640.98px) {
-    .top-row[b-pz1kovaf8r] {
+    .top-row[b-2cdj68y2iy] {
         justify-content: space-between;
     }
 
-    .top-row[b-pz1kovaf8r]  a, .top-row[b-pz1kovaf8r]  .btn-link {
+    .top-row[b-2cdj68y2iy]  a, .top-row[b-2cdj68y2iy]  .btn-link {
         margin-left: 0;
     }
 }
 
 @media (min-width: 641px) {
-    .page[b-pz1kovaf8r] {
+    .page[b-2cdj68y2iy] {
         flex-direction: row;
     }
 
-    .sidebar[b-pz1kovaf8r] {
+    .sidebar[b-2cdj68y2iy] {
         width: 250px;
         height: 100vh;
         position: sticky;
         top: 0;
     }
 
-    .top-row[b-pz1kovaf8r] {
+    .top-row[b-2cdj68y2iy] {
         position: sticky;
         top: 0;
         z-index: 1;
     }
 
-    .top-row.auth[b-pz1kovaf8r]  a:first-child {
+    .top-row.auth[b-2cdj68y2iy]  a:first-child {
         flex: 1;
         text-align: right;
         width: 0;
@@ -73,7 +73,7 @@ main[b-pz1kovaf8r] {
     
 }
 
-#blazor-error-ui[b-pz1kovaf8r] {
+#blazor-error-ui[b-2cdj68y2iy] {
     background: lightyellow;
     bottom: 0;
     box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
@@ -85,7 +85,7 @@ main[b-pz1kovaf8r] {
     z-index: 1000;
 }
 
-    #blazor-error-ui .dismiss[b-pz1kovaf8r] {
+    #blazor-error-ui .dismiss[b-2cdj68y2iy] {
         cursor: pointer;
         position: absolute;
         right: 0.75rem;

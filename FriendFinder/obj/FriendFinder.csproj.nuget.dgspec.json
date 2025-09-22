@@ -1,29 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\FriendFinder.csproj": {}
+    "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/FriendFinder.csproj": {}
   },
   "projects": {
-    "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\FriendFinder.csproj": {
+    "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/FriendFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\FriendFinder.csproj",
+        "projectUniqueName": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/FriendFinder.csproj",
         "projectName": "FriendFinder",
-        "projectPath": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\FriendFinder.csproj",
-        "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "C:\\Developer\\Projects\\FriendFinder\\FriendFinder\\obj\\",
+        "projectPath": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/FriendFinder.csproj",
+        "packagesPath": "/Users/jbirch93/.nuget/packages/",
+        "outputPath": "/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/jbirch93/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
