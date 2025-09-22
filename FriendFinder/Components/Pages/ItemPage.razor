@@ -1,31 +1,32 @@
 ﻿@page "/categories/{cat}/subcategories/{subcat}/items"
+@rendermode InteractiveServer
 
 <PageTitle>@subcat</PageTitle>
 
 <div class="cat-grid">
     @foreach (var i in items)
     {
-        <a @onclick="() => FavItem(i)" class="cat-tile">@i</a>
+        <button type="button"
+                @onclick="() => FavItem(i)"
+                class="cat-tile @(favItem == i ? "selected" : "")">
+            @i
+        </button>
     }
 </div>
 
+<p>Selected: @favItem</p>
+
 @code {
-    [Parameter] 
-    public string? subcat { get; set; }
-    [Parameter] 
-    public string? cat { get; set; }
+    [Parameter] public string? subcat { get; set; }
+    [Parameter] public string? cat { get; set; }
 
     private string favItem = "";
-    
-    private void FavItem(string item)
+    private void FavItem(string item) => favItem = item;
+
+    private readonly string[] items = new[]
     {
-        favItem = item;
-    }
-    
-    private readonly string[] items = new[] // get profiles of friends that like the item? or just any person
-    {
-        "Club Sandwich", "BLT", "Grilled Cheese", "Reuben", "French Dip", "Italian Sub", 
-        "Turkey and Swiss", "Ham and Cheddar", "Egg Salad", "Chicken Salad", "Tuna Melt", "Pulled Pork", 
+        "Club Sandwich", "BLT", "Grilled Cheese", "Reuben", "French Dip", "Italian Sub",
+        "Turkey and Swiss", "Ham and Cheddar", "Egg Salad", "Chicken Salad", "Tuna Melt", "Pulled Pork",
         "Philly Cheesesteak", "Cuban Sandwich", "Veggie Sandwich", "Meatball Sub", "Roast Beef Sandwich", "Caprese Sandwich"
     };
 }

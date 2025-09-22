@@ -15,8 +15,14 @@
     border: 1px solid #333;                /* inner grid lines */
     font-weight: 600;
     background: #f9f9f9;
+    cursor: pointer;
 }
 
 a {
     text-decoration: none;
+}
+
+.cat-tile.selected {
+    background-color: #4A5A49 !important; /* highlight color */
+    color: white;
 }

@@ -23,6 +23,7 @@
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/Components/Pages/CategoryHome.razor.rz.scp.css
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/Components/Pages/ItemPage.razor.rz.scp.css
+/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/Components/Pages/SubcategoryPage.razor.rz.scp.css
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/bundle/FriendFinder.styles.css
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/projectbundle/FriendFinder.bundle.scp.css
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/FriendFinder.dll
@@ -30,4 +31,3 @@
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/FriendFinder.pdb
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/FriendFinder.genruntimeconfig.cache
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/ref/FriendFinder.dll
-/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/Components/Pages/SubategoryPage.razor.rz.scp.css

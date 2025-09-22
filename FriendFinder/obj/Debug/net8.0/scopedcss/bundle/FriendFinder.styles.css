@@ -239,14 +239,20 @@ a[b-7i5d79djsc] {
     border: 1px solid #333;                /* inner grid lines */
     font-weight: 600;
     background: #f9f9f9;
+    cursor: pointer;
 }
 
 a[b-460iiwz7ii] {
     text-decoration: none;
 }
-/* _content/FriendFinder/Components/Pages/SubategoryPage.razor.rz.scp.css */
+
+.cat-tile.selected[b-460iiwz7ii] {
+    background-color: #4A5A49 !important; /* highlight color */
+    color: white;
+}
+/* _content/FriendFinder/Components/Pages/SubcategoryPage.razor.rz.scp.css */
 /* Create a 3xN grid (change 3 to 9 for 9 columns) */
-.cat-grid[b-c0bdsfk5cm] {
+.cat-grid[b-nbuh407f18] {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 across */
     border: 1px solid #333;                /* outer border */
@@ -254,7 +260,7 @@ a[b-460iiwz7ii] {
 }
 
 /* Each tile */
-.cat-tile[b-c0bdsfk5cm] {
+.cat-tile[b-nbuh407f18] {
     aspect-ratio: 1 / 1;                   /* force squares */
     display: flex;
     align-items: center;
@@ -264,6 +270,6 @@ a[b-460iiwz7ii] {
     background: #f9f9f9;
 }
 
-a[b-c0bdsfk5cm] {
+a[b-nbuh407f18] {
     text-decoration: none;
 }
