@@ -1,23 +1,17 @@
-﻿@page "/categories/{cat}/subcategories/{subcat}/items"
+@page "/people"
 @rendermode InteractiveServer
 
-<PageTitle>@subcat</PageTitle>
+<PageTitle>People</PageTitle>
 
 <div class="cat-grid">
     @foreach (var i in items)
     {
-        <button type="button"
-                @onclick="() => FavItem(i)"
-                class="cat-tile @(favItem == i ? "selected" : "")">
-            @i
-        </button>
+        <a href="/profile/me" class="cat-tile">@i</a>
     }
 </div>
 
-@code {
-    [Parameter] public string? subcat { get; set; }
-    [Parameter] public string? cat { get; set; }
 
+@code {
     private string favItem = "";
     private void FavItem(string item) => favItem = item;
 

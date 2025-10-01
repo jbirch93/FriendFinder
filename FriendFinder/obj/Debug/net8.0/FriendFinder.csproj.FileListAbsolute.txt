@@ -31,3 +31,4 @@
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/FriendFinder.pdb
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/FriendFinder.genruntimeconfig.cache
 /Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/ref/FriendFinder.dll
+/Users/jbirch93/Developer/Projects/FriendFinder/FriendFinder/obj/Debug/net8.0/scopedcss/Components/Pages/PeoplePage.razor.rz.scp.css

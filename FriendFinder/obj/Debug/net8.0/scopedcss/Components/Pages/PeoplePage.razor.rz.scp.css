@@ -1,0 +1,22 @@
+/* Create a 3xN grid (change 3 to 9 for 9 columns) */
+.cat-grid[b-h2fxn4abid] {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 across */
+    border: 1px solid #333;                /* outer border */
+    border-collapse: collapse;
+}
+
+/* Each tile */
+.cat-tile[b-h2fxn4abid] {
+    aspect-ratio: 1 / 1;                   /* force squares */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #333;                /* inner grid lines */
+    font-weight: 600;
+    background: #f9f9f9;
+}
+
+a[b-h2fxn4abid] {
+    text-decoration: none;
+}
